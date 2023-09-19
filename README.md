@@ -10,8 +10,6 @@
 
 ----
 
-![NKUST](nkust.jpg"NKUST")
-
 - [ ] to do list
 - [x] sleep
 - [ ] play
@@ -30,3 +28,5 @@ print s
 var s = "謝和弦裝可愛QRcode";
 alert(s);
 ```
+
+![NKUST](nkust.png "NKUST")
